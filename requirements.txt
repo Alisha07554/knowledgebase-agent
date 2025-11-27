@@ -1,0 +1,11 @@
+streamlit
+langchain
+openai
+chromadb
+tqdm
+PyPDF2
+python-multipart
+tiktoken
+faiss-cpu
+pdfplumber
+python-dotenv
